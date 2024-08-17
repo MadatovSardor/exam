@@ -1,0 +1,6 @@
+cmd: k get pods -A -l project=practice
+
+
+NAMESPACE     NAME     READY   STATUS    RESTARTS   AGE
+exam-sardor   nginx1   1/1     Running   0          3m35s
+exam-sardor   nginx2   1/1     Running   0          111s
