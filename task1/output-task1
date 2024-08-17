@@ -1,0 +1,3 @@
+cmd: kubectl get ns | grep exam-sardor
+
+exam-sardor          Active   2m48s
