@@ -1,0 +1,3 @@
+cmd: kubectl port-forward deployments/flaskd 8080:5000
+
+{"env":"staging","http_port":"80","string":"Welcome to DevOps Course!"}
